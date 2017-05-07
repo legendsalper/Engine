@@ -1,4 +1,6 @@
 ﻿  Game.cpp
+  Main.cpp
+  MainWindow.cpp
   Generating code
   4 of 628 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
